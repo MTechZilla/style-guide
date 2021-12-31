@@ -16,7 +16,8 @@ To learn more about javascript visit following resources:
   We use Nodejs v14 and npm v6 
 
 2. ExpressJs and NestJs
-  We use ExpressJs and NestJs as a server framework
+
+   We use ExpressJs and NestJs as a server framework
 
   Reference:
   - [Express js](https://expressjs.com/) 
@@ -36,16 +37,19 @@ To learn more about javascript visit following resources:
   - [Prisma](https://prisma.io) 
 
 4. Redis
+
   Its a key-value store database. Used mostly for caching
 
   npm package to interact with redis is named `redis`  or `ioredis`
 
 5. Testing
+
   For unit and integration testing we use jest as a test runner
 
   - [Official Jest website](https://jestjs.io/) 
 
 6. AWS Services and Other third party services
+
   This is the list of aws services we use frequently
 
   - [AWS Lightsail](https://aws.amazon.com/lightsail/)  
