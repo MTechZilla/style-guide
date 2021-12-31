@@ -15,10 +15,12 @@ To learn more about javascript visit following resources:
 1. Nodejs
   We use Nodejs v14 and npm v6 
 
-2. ExpressJS
-  Expressjs is used as a server framework to write REST api calls
+2. ExpressJs and NestJs
+  We use ExpressJs and NestJs as a server framework
 
-  [Reference](https://expressjs.com/) 
+  Reference:
+  [Express js](https://expressjs.com/) 
+  [Nest Js](https://nestjs.com/)
 
 3. Postgres
   Postgres is a relational database.    
