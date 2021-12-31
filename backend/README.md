@@ -19,8 +19,8 @@ To learn more about javascript visit following resources:
   We use ExpressJs and NestJs as a server framework
 
   Reference:
-  [Express js](https://expressjs.com/) 
-  [Nest Js](https://nestjs.com/)
+  - [Express js](https://expressjs.com/) 
+  - [Nest Js](https://nestjs.com/)
 
 3. Postgres
   Postgres is a relational database.    
