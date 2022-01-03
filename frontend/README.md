@@ -85,8 +85,8 @@ Single image file must be less than 50-60px.
           The reason PNGs are used in most web projects is that you can save your image with more colors on a transparent background. This makes for a much                 sharper, web-quality image.
 
 Resources for media:
-_ https://undraw.co/
-_ https://react-icons.github.io/react-icons/
+ * https://undraw.co/
+ * https://react-icons.github.io/react-icons/
 
 ## Coding standards:
 
