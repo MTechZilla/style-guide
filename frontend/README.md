@@ -1,6 +1,6 @@
-# Fronend Style Guide
+# Front-end Style Guide
 
-This is our frontend style guide to help devoloper in his tasks.
+This is our front-end style guide to help devoloper in his tasks.
 
 ## VS-Code Prettier:
 
@@ -22,19 +22,6 @@ After successfully installing prettier on your VS-Code configure Prettier as per
 “For configuring prettier go to settings icon then hit setting option search for prettier then select on prettier in Extensions section following UI will be open then configure it. ( configure process solution may vary with vs code versions if this process not worked search it on google).”
 ![prettier-config](https://github.com/MTechZilla/style-guide/blob/dev/images/prettier-config.png)
 
-## Web Vitals:
-
-What is Web Vitals? ["Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web." ](https://www.google.com)
-
-Rules for web vitals:
-
-    * First time load: 2s
-    * Largest content full paint: 1s
-    * First Input Delay: NA
-    * Cumulative layout shift: NA
-
-For checking web scores use lighthouse on the google chrome browser
-
 ## VS-Code Configurations and extensions:
 
 -   Eslint
@@ -50,6 +37,19 @@ For checking web scores use lighthouse on the google chrome browser
 -   Short keys documentation
     -   Format document CTRL + SHIFT + I
     -   Organize imports CTRL + SHIFT + O
+
+## Web Vitals:
+
+What is Web Vitals? ["Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web." ](https://www.google.com)
+
+Rules for web vitals:
+
+    * First time load: 2s
+    * Largest content full paint: 1s
+    * First Input Delay: NA
+    * Cumulative layout shift: NA
+
+For checking web scores use lighthouse on the google chrome browser
 
 ## Responsive Breakpoints:
 
@@ -85,8 +85,9 @@ Single image file must be less than 50-60px.
           The reason PNGs are used in most web projects is that you can save your image with more colors on a transparent background. This makes for a much                 sharper, web-quality image.
 
 Resources for media:
- * https://undraw.co/
- * https://react-icons.github.io/react-icons/
+
+-   https://undraw.co/
+-   https://react-icons.github.io/react-icons/
 
 ## Coding standards:
 
