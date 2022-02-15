@@ -13,7 +13,7 @@ After setting up ssh clone the Github Repo with ssh it will look something like 
 `git@github.com:MTechZilla/<repo-name>.git`
 
 <p align="center" >
-  <img src="./images/github-ssh.png" />
+  <img src="../images/github-ssh.png" />
 </p>
 
 ## Git style guide conventions
@@ -36,11 +36,11 @@ There are two ways to create a branch.
   
   First switch to dev branch from UI
 
-  ![Move to dev branch](./images/move-to-dev.png)
+  ![Move to dev branch](../images/move-to-dev.png)
 
   Create a branch by typing the new branch name
 
-  ![Create new branch](./images/create-new-branch.png)
+  ![Create new branch](../images/create-new-branch.png)
 
 
 - From Terminal using git
