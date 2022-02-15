@@ -15,7 +15,7 @@ curl -fsSL https://fnm.vercel.app/install | bash
 2. Add completions for your shell
 
 ```bash
-fnm completions --shell bash 
+sudo fnm completions --shell bash > /usr/share/bash-completion/completions/fnm
 ```
 
 3. Add the following line to your `.bashrc` file. You can use your preferred
@@ -40,6 +40,8 @@ press `Ctrl + s` to save the file and close the gedit application
 
 5. Now you can install any node version you like with `fnm install`
 
+### Some useful commands
+
 - List all available node version with
 
 ```bash
@@ -52,6 +54,12 @@ fnm list-remote
 fnm install v14.19.0
 ```
 
+- fnm help command to get more information
+
+```bash
+fnm help
+```
+
 Tip:
 
 For particular project just create a `.node-version` in root of folder
@@ -61,4 +69,4 @@ paste version in this format in `.node-version` file
 .node-version file
 ```
 v14.19.0
-`
+```
